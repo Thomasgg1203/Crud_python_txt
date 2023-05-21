@@ -1,0 +1,40 @@
+{
+    "productos": [
+        {
+            "nombre": "arroz",
+            "precio": 3000.0,
+            "cantidad": 80,
+            "ventas": 15
+        },
+        {
+            "nombre": "arepas",
+            "precio": 1000,
+            "cantidad": 22,
+            "ventas": 0
+        },
+        {
+            "nombre": "frijoles",
+            "precio": 4500,
+            "cantidad": 5,
+            "ventas": 0
+        },
+        {
+            "nombre": "papas fritas",
+            "precio": 6000,
+            "cantidad": 9,
+            "ventas": 0
+        },
+        {
+            "nombre": "tomate",
+            "precio": 200.0,
+            "cantidad": 100,
+            "ventas": 300
+        },
+        {
+            "nombre": "tostada",
+            "precio": 4000.0,
+            "cantidad": 5,
+            "ventas": 0
+        }
+    ]
+}
